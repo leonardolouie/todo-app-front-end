@@ -1,0 +1,2 @@
+base = "/"
+publish = "dist/index.html"

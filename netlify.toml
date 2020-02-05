@@ -1,2 +1,2 @@
 base = "/"
-publish = "dist/index.html"
+publish = "dist"
